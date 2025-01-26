@@ -2,7 +2,7 @@
 title:          "Minimalist Nanovaccine with Optimized Amphiphilic Copolymers for Cancer Immunotherapy"
 date:           2024-01-17 00:01:00 +0800
 selected:       true
-pub:            "Advanced Functional Materias"
+pub:            "ACS Nano"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
