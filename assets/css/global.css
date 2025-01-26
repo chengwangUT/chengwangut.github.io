@@ -67,3 +67,7 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+strong {
+    font-weight: 800;
+    color: #000;
+}
