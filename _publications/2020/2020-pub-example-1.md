@@ -1,7 +1,7 @@
 ---
 title:          "Tryptophan functionalized framework of nanoporous material as fluorescent sensor for trace detection of Zn2+ ions"
 date:           2020-11-25 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Materials Chemistry and Physics"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
