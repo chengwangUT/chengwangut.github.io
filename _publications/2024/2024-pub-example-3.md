@@ -24,7 +24,7 @@ authors:
   - Yi Liu
   - Junjie Zhu
   - Yang Yang
-  - Qian Chen
+  - Qian Chen*
 links:
   Paper: https://doi.org/10.1002/adfm.202316092
 ---
