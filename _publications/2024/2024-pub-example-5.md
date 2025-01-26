@@ -25,8 +25,9 @@ authors:
   - Huapan Fang
   - Jun Zhou
   - Yudong Wang
-  
+  - Zhuang Liu
+  - Yang Yang
   - Qian Chen
 links:
-  Paper: https://doi.org/10.1021/acsnano.3c10174
+  Paper: https://doi.org/10.1016/j.scib.2024.06.016
 ---
