@@ -27,7 +27,7 @@ authors:
   - Yudong Wang
   - Zhuang Liu
   - Yang Yang
-  - Qian Chen
+  - Qian Chen*
 links:
   Paper: https://doi.org/10.1016/j.scib.2024.06.016
 ---
