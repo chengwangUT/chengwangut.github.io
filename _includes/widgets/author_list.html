@@ -26,7 +26,7 @@
     {%- endif -%}
 
     {%- if info['bold'] == true -%}
-        {%- assign display_name = name | append: mark | prepend: "<strong>" | append: "</strong>" -%}
+        {%- assign display_name = name | append: mark | prepend: "<strong style='background-color: #f2f2f2;'>" | append: "</strong><u>" | append: "</u>" -%}
     {%- else -%}
         {%- assign display_name = name | append: mark -%}
     {%- endif -%}
@@ -44,11 +44,11 @@
 {%- if has_eq_contrib or has_corresponding %}
 <mark>(
     {%- if has_eq_contrib -%}
-        * <i> equal contribution</i>
+        # <i> equal contribution</i>
     {%- endif -%}
     {%- if has_corresponding -%}
         {%- if has_eq_contrib -%}, {% endif -%}
-        <sup>#</sup> <i> corresponding author</i>
+        <sup>*</sup> <i> corresponding author</i>
     {%- endif -%}
 )</mark>
 {%- endif -%}
