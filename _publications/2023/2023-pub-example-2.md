@@ -9,8 +9,8 @@ abstract: >-
 
 cover:          /assets/images/covers/cover_JCR.jpg
 authors:
-  - Linfu Chen
-  - Rui Zhao
+  - Linfu Chen#
+  - Rui Zhao#
   - Zheyu Kang
   - Zhiqin Cao
   - Nanhui Liu
@@ -20,7 +20,7 @@ authors:
   - Xiao Zhou
   - Zhuang Liu
   - Yang Yang
-  - Qian Chen
+  - Qian Chen*
 links:
   Paper: https://doi.org/10.1016/j.jconrel.2023.09.028
 ---
