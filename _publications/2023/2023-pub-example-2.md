@@ -1,23 +1,26 @@
 ---
-title:          "Pharetra Massa Massa Ultricies Mi Nisl Tincidunt"
-date:           2023-01-21 00:01:00 +0800
-selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
+title:          "Delivery of short chain fatty acid butyrate to overcome Fusobacterium nucleatum-induced chemoresistance"
+date:           2023-09-23 00:01:00 +0800
+selected:       True
+pub:            "Journal of Controlled Release"
 pub_date:       "2023"
 abstract: >-
-  Photo by Dessy Dimcheva on Unsplash. Please keep the description of your publication as brief as possible. 1~2 sentences is ideal. Otherwise, it will look too noisy. This is a <strong>counterexample</strong> to show how the publication will look like when the abstract is too long.
-  The tangerine is a type of citrus fruit that is orange in color, that is considered either a variety of Citrus reticulata, the mandarin orange, or a closely related species, under the name Citrus tangerina, or yet as a hybrid (Citrus × tangerina) of mandarin orange varieties, with some pomelo contribution.
-  According to the Oxford English Dictionary (OED), the word "tangerine" was originally an adjective meaning "Of or pertaining to, or native of Tangier, a seaport in Morocco, on the Strait of Gibraltar" and "a native of Tangier." The name was first used for fruit coming from Tangier, Morocco, described as a mandarin variety. The OED cites this usage from Addison's The Tatler in 1710 with similar uses from the 1800s. The adjective was applied to the fruit, once known scientifically as "Citrus nobilis var. tangeriana" which grew in the region of Tangiers. This usage appears in the 1800s.
+  The gut microbiota is closely associated with the progression of colorectal cancer (CRC) in which Fusobacterium nucleatum (F. nucleatum) was found to induce cancer resistance to chemotherapeutics. To relieve F. nucleatuminduced drug resistance, herein, we found that short-chain fatty acid butyrate can inhibit the growth, enrichment and adhesion of F. nucleatum in colorectal cancer tissues by downregulating the expression of adhesionassociated outer membrane proteins, including RadD, FomA, and FadA, to reduce the colonization and invasion of F. nucleatum and relieve the chemoresistance induced by F. nucleatum. Leveraging the killing effect of butyrate on F. nucleatum, sodium butyrate (NaBu) was encapsulated in liposomes or prepared as NaBu tablets with Eudragit S100 coating and administered by intravenous injection or oral administration, respectively. Interestingly, both intravenous administration of NaBu liposomes and oral delivery of NaBu tablets could effectively inhibit the proliferation of F. nucleatum and significantly improve the therapeutic efficacy of oxaliplatin in mice with subcutaneous colorectal tumors, orthotopic colorectal tumors and even spontaneously formed colorectal tumors. Thus, our work provides a simple but effective formulation of NaBu to relieve F. nucleatuminduced chemoresistance, exhibiting ideal clinical application prospects.
 
 cover:          /assets/images/covers/cover2.jpg
 authors:
-  - Charles Green (MIT)*
-  - John Doe*
-  - Robert White
-  - James Wang
-  - Your Name#
+  - Linfu Chen
+  - Rui Zhao
+  - Zheyu Kang
+  - Zhiqin Cao
+  - Nanhui Liu
+  - Jingjing Shen
+  - Cheng Wang
+  - Feng Pan
+  - Xiao Zhou
+  - Zhuang Liu
+  - Yang Yang
+  - Qian Chen
 links:
-  Paper: https://www.biorxiv.org
-  Code: https://github.com
-  Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
+  Paper: https://doi.org/10.1016/j.jconrel.2023.09.028
 ---
