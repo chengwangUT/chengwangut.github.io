@@ -5,7 +5,7 @@ selected:       true
 pub:            "Science Bulletin"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">Q1</span><span class="badge badge-pill badge-publication badge-success">IF=18.8</span>'
 pub_date:       "2024"
 
 abstract: >-
