@@ -5,7 +5,7 @@ selected:       true
 pub:            "Advanced Functional Materias"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-warning">Q1</span><span class="badge badge-pill badge-custom badge-success">IF=18.5</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">Q1</span><span class="badge badge-pill badge-publication badge-success">IF=18.5</span>'
 pub_date:       "2024"
 
 abstract: >-
