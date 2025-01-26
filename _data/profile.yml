@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Welcome to Cheng Wang's homepage"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: /assets/images/badges/Utokyo.png  # Logo is optional
   name: Ph.D. candidate, The University of Tokyo
 
 
@@ -35,19 +35,19 @@ portrait_caption: >-
 
 education:
 - name: The University of Tokyo
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/Utokyo.png
   position: >- 
     Department of bioengineering <br/>
     Incoming Ph.D. student
   date: Oct. 2025 - Oct. 2028
 - name: Soochow University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/SUDA.png
   position: >- 
     Institue of Functional Nano & Soft Material (FUNSOM) <br/>
     M.S. in Biomedical Nanomaterial
   date: Sep. 2021 - Jul. 2024
 - name: Nanjing Tech University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/NJTech.png
   position: B.S. in Polymer Material
   date: Sep. 2017 - Jul. 2021
 
